@@ -26,7 +26,7 @@ public class FrmInventario extends BaseFrame {
      */
     public FrmInventario() {
         initComponents();
-        setTitle("Inventario");
+        setTitle("Inventario numero 3");
         super.iniciarVentana(panel);
         DefaultTableModel model = (DefaultTableModel) tableProductos.getModel();
         
