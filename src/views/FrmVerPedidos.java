@@ -87,7 +87,7 @@ public class FrmVerPedidos extends BaseFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Ver Pedido: 484");
+        jLabel1.setText("Ver Pedido: 12");
 
         jLabel3.setText("Fecha de Entrega: 14/11/24 ");
 
