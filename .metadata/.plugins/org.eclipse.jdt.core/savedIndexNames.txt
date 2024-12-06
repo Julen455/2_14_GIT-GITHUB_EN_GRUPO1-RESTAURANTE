@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\yasse\Desktop\proyecto\2_14_GIT-GITHUB_EN_GRUPO1-RESTAURANTE\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
