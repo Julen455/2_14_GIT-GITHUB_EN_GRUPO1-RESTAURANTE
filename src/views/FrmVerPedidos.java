@@ -87,9 +87,9 @@ public class FrmVerPedidos extends BaseFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Ver Pedido:");
+        jLabel1.setText("Ver Pedido: 484");
 
-        jLabel3.setText("Fecha de Entrega: ");
+        jLabel3.setText("Fecha de Entrega: 14/11/24 ");
 
         cmdAgregarP.setText("Entregar");
         cmdAgregarP.addActionListener(new java.awt.event.ActionListener() {
@@ -105,7 +105,7 @@ public class FrmVerPedidos extends BaseFrame {
             }
         });
 
-        jLabel4.setText("Total:");
+        jLabel4.setText("Total: ");
 
         tblProductos.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
