@@ -1,0 +1,44 @@
+!SESSION 2024-12-05 13:09:45.733 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-05 13:09:51.981
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-05 13:10:31.992
+!MESSAGE Logback config file: C:\Users\Julen\Desktop\Desarrollo de aplicaciones web (1º trimestre)\ENDE\Repositorio\REPOSITORIO_GRUPAL\2_14_GIT-GITHUB_EN_GRUPO1-RESTAURANTE\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+!SESSION 2024-12-05 13:10:38.373 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-05 13:10:45.202
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-05 13:10:58.671
+!MESSAGE Logback config file: C:\Users\Julen\Desktop\Desarrollo de aplicaciones web (1º trimestre)\ENDE\Repositorio\REPOSITORIO_GRUPAL\2_14_GIT-GITHUB_EN_GRUPO1-RESTAURANTE\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-05 13:11:00.528
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-05 13:11:00.528
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+!SESSION 2024-12-05 13:11:10.440 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-05 13:11:17.035
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-05 13:11:36.669
+!MESSAGE Logback config file: C:\Users\Julen\Desktop\Desarrollo de aplicaciones web (1º trimestre)\ENDE\Repositorio\REPOSITORIO_GRUPAL\2_14_GIT-GITHUB_EN_GRUPO1-RESTAURANTE\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml

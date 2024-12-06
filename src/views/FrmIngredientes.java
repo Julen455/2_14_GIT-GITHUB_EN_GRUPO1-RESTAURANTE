@@ -79,7 +79,7 @@ public class FrmIngredientes extends BaseFrame {
             }
         });
 
-        jLabel3.setText("Existencia Inventario:");
+        jLabel3.setText("Aquí estuvo el número 1");
 
         txtExistencia.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
