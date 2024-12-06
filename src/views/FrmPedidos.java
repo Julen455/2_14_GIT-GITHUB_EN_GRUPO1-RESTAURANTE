@@ -31,7 +31,7 @@ public class FrmPedidos extends BaseFrame {
      */
     public FrmPedidos() {
         initComponents();
-        setTitle("Agregar Pedidos - numero 2 ");
+        setTitle("Agregar Pedidos, creado 2 - numero 2 ");
         super.iniciarVentana(panel);
         model = (DefaultTableModel) tblProductos.getModel();
     }
